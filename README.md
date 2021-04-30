@@ -2,6 +2,10 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Jest Test
+This app essentially just fetches the time of day from Jest and returns it on the React frontend. The Jest test mocks the Fetch function to test if the React frontend is correctly fetching the time value from the Flask backend.
+
+
 ## Available Scripts
 
 In the project directory, you can run:
